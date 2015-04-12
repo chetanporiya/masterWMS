@@ -1,0 +1,32 @@
+<div class="modal CustomModal infoModal" ng-controller="messageController">
+    <i class="transparent icon ion-close" style="font-size: 25px;float: right;margin-right: 10px;" ng-click="utilsService.hideInfo()"></i>
+    <div style="padding: 10%;">
+        <div class="padding-bottom-10">
+            <span class="lblIdentifierValue">
+                Sales Order :
+            </span>
+            <span class="lblIdentifier">
+                Orders which are released to production can only be viewed. Kindly click on Search Icon to view orders older than 90 days.
+            </span>
+        </div>
+        <br />
+        <div class="">
+            <span class="lblIdentifierValue">
+                LC :
+            </span>
+            <span class="lblIdentifier">
+                Kindly click on Filter Icon to view LC beyond 180 days.
+            </span>
+        </div>
+         <br />
+        <div class="padding-top-10">
+            <span class="lblIdentifierValue">
+                Ledger balance : 
+            </span>
+            <span class="lblIdentifier">
+                This includes balance for which Invoices have been raised but Bills of Exchange have not been generated.
+            </span>
+        </div>
+    </div>
+    <br />
+</div>

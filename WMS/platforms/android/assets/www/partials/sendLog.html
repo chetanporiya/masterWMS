@@ -1,0 +1,40 @@
+<div class="modal orderStatusDetails" ng-controller="sendLogController">
+    <header class="bar bar-header bar-positive app-color app-border">
+        <!--        <h1 class="title">Send Device Log</h1>
+                <div class="button button-clear" ng-click="utilsService.hideModal()"><span class="icon ion-close"></span></div>-->
+        <div class="button button-clear" ng-click="utilsService.hideModal()"><span class="icon ion-android-system-back"></span></div>
+        <h1 class="title">Diagnostic Logs</h1>
+        <div class="button button-clear" ng-click="sendLogButtonClicked()"><span class="icon ion-android-send"></span></div>
+    </header>
+    <ion-content has-header="true" padding="true" class="scroll-container">
+        <div class="list has-header scroll">
+            <div class="item-text-wrap">
+                Help us improve our app by sending us diagnostic logs when you face unexpected errors. 
+            </div><br>
+            <div class="item-text-wrap">
+                You may also be asked to send this log when requesting technical support.
+            </div>
+            <ul class="list">
+                <li class="item">
+                    <!--<ion-radio ng-model="choice" ng-value="'A'" style="border: none">Send All Log</ion-radio>-->
+                    <label class="checkbox fade-in checkbox-assertive">
+                        <input type="checkbox" ng-model="logService.sendAllLog" ng-click="checkboxClicked(true)" />
+                    </label>
+                    <div style="margin-left: 50px; margin-top: -35px">Send All Log</div>
+                </li>
+                <!--                <li class="item">
+                                    <ion-radio ng-model="choice" ng-value="'A'" style="border: none">Send End Days Log</ion-radio>
+                                    <label class="checkbox fade-in checkbox-assertive">
+                                        <input type="checkbox" ng-model="logService.sendSpecificLog" ng-click="checkboxClicked(false)" />
+                                    </label>
+                                    <div style="margin-left: 50px; margin-top: -35px">Send logs of last few days</div>
+                                    <br>
+                                    <input type="text" style="margin-left: 50px; width: 90%" ng-model="logService.noOfDays" ng-disabled="!logService.sendSpecificLog" placeholder="Enter no of Days" />
+                                </li>-->
+            </ul>
+            <!--            <div class="padding row-center pull-center">
+                            <button class="button button-assertive" ng-click="sendLogButtonClicked()">Send Log</button>
+                        </div>-->
+        </div>
+    </ion-content>
+</div>

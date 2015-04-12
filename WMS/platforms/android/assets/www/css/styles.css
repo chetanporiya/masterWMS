@@ -1,0 +1,368 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 20 Oct, 2014, 4:46:16 PM
+    Author     : mshukla1
+*/
+
+.modal-open {
+    pointer-events: all !important;
+}
+.popup {
+    width : 320px !important;
+}
+
+.item h2 {
+    font-size: 25px !important;
+}
+
+.popup .button {
+    border-color: #b2b2b2 !important;
+    background-color: #444 !important;
+    color: #fff !important;
+}
+
+.button.button-positive {
+    border-color: #0066FF !important;
+    background-color: #0066FF !important;
+}
+
+
+
+.action-sheet .button {
+    color : #0066FF;
+}
+
+.action-sheet-title {
+    font-size : 18px;
+    color: #772121;
+}
+
+.action-sheet .button:hover {
+    color: #772121;
+}
+
+.app-font-size {
+    font-size : 12px;
+}
+
+.chartContainer {
+    height : 300px !important;
+}
+
+.tabs-striped.tabs-positive .tab-item.tab-item-active, .tabs-striped.tabs-positive .tab-item.active, .tabs-striped.tabs-positive .tab-item.activated {
+    color: #fff !important;
+    border-color: #fff;
+}
+
+.tabs-striped.tabs-positive .tab-item {
+    color: rgba(255, 255, 255, 0.6) !important;
+}
+
+.tabs-positive > .tabs, .tabs.tabs-positive {
+    border-color: #941D1D !important;
+    background-color: #0066FF !important;
+    background-image: linear-gradient(0deg, #0066FF, #0066FF 50%, transparent 50%) !important;
+    color: #fff !important;
+}
+
+.transparent {
+    background: transparent !important;
+}
+
+.padding-0 {
+    padding: 0 !important;
+}
+
+.margin-0 {
+    margin: 0px !important;
+}
+
+.margin-top-10 {
+    margin-top : 10px !important;
+}
+
+.customer-item {
+    border: none;
+    padding: 16px !important;
+}
+
+.arrowDiv:active {
+    background : #E3E3E3 !important;
+    color : #000000 !important;
+}
+
+.arrowDiv:active .app-icon  {
+    color : #000000 !important;
+}
+
+.arrowDiv:active div, .arrowDiv:active h4 {
+    color : #000000 !important;
+}
+
+.padding-left-3px  {
+    padding-left : 3px !important;
+}
+
+.padding-left-0px {
+    padding-left: 0px !important;
+}
+
+.text-align-right {
+    text-align : right;
+}
+
+
+.menuContent {
+    margin-top : 40px;
+}
+
+ion-nav-view {
+    background : #fff;
+}
+
+.app-color {
+    box-shadow: 0px 0px 5px #0066FF !important;
+    background-color: #0066FF !important;
+    color: #fff  !important;
+}
+
+.app-border {
+    border-color: #0066FF !important;
+}
+
+.checkbox-assertive input:before, .checkbox-assertive .checkbox-icon:before {
+    border-color: #0066FF !important; 
+}
+
+.checkbox-assertive input:checked:before, .checkbox-assertive input:checked + .checkbox-icon:before {
+    background: #0066FF !important; 
+}
+
+.input-label {
+    color : #0066FF;
+}
+
+.has-header {
+    padding-top: 40px;
+}
+
+.item-checkbox {
+    color : #0066FF;
+}
+
+.button.button-assertive {
+    background-color : #0066FF ;
+}
+
+.button {
+    min-width: 150px;
+}
+
+.pull-center {
+    text-align: center;
+    float : none;
+}
+
+.infoModal {
+    height: 300px !important;
+    width: 310px !important;
+    
+/*    background: transparent !important;
+    color: white !important;*/
+    opacity: 1 !important;
+    box-shadow: 0px 0px 4px #fff !important;
+}
+
+.pull-right {
+    float: right;
+}
+
+.lblIdentifierValue {
+    font-weight: bolder;
+}
+
+.item .item-input {
+    border : none !important;
+}
+
+.item .item-input {
+    border : none !important;
+}
+.item .item-input > input:focus{
+    box-shadow: 0px 0px 5px #0066FF;
+}
+
+.font-size-30 {
+    font-size: 30px !important;
+}
+
+.app-icon {
+    color : #0066FF;
+}
+
+.CustomModal {
+    min-height: 150px;
+    width: 90%;
+    height: 100px;
+    left: 10%;
+    top: 30%;
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    opacity: 0.9;
+    margin: auto;
+}
+
+.CustomModalBox {
+    min-height: 0px;
+    width: 93px;
+    height: 93px;
+    left: 10%;
+    top: 30%;
+    display: block;
+    position: absolute;
+    top: 23px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    opacity: 0.9;
+    margin: auto;
+    border-radius:10px 10px 10px 10px;
+}
+
+/*----------------------------------------------------------------------------------------------------------------------*/
+#loader1 {
+    margin-bottom: 10px;
+    margin-top: 15px;
+}
+
+.loader {
+    text-align : center;
+}
+
+.loader span {
+    display: inline-block;
+    height: 15px;
+    width: 15px;
+    border-radius: 0px;
+}
+.border-radius {
+    border-radius: 500px;
+}
+
+.loader span:nth-child(1) {
+    -webkit-transform-origin: 0 50%;
+    -ms-transform-origin: 0 50%;
+    transform-origin: 0 50%;
+    transform-perspective: 100px;
+    -webkit-animation: cuve 1s 0.5s infinite;
+    animation: cuve 1s 0.5s infinite;
+}
+.loader span:nth-child(2) {
+    -webkit-transform-origin: 0 50%;
+    -ms-transform-origin: 0 50%;
+    transform-origin: 0 50%;
+    transform-perspective: 100px;
+    -webkit-animation: cuve 1s 1s infinite;
+    animation: cuve 1s 1s infinite;
+}
+.loader span:nth-child(3) {
+    -webkit-transform-origin: 0 50%;
+    -ms-transform-origin: 0 50%;
+    transform-origin: 0 50%;
+    transform-perspective: 100px;
+    -webkit-animation: cuve 1s 1.5s infinite;
+    animation: cuve 1s 1.5s infinite;
+}
+.loader span:nth-child(4) {
+    -webkit-transform-origin: 0 50%;
+    -ms-transform-origin: 0 50%;
+    transform-origin: 0 50%;
+    transform-perspective: 100px;
+    -webkit-animation: cuve 1s 2s infinite;
+    animation: cuve 1s 2s infinite;
+}
+.loader span:nth-child(5) {
+    -webkit-transform-origin: 0 50%;
+    -ms-transform-origin: 0 50%;
+    transform-origin: 0 50%;
+    transform-perspective: 100px;
+    -webkit-animation: cuve 1s 2.5s infinite;
+    animation: cuve 1s 2.5s infinite;
+}
+
+
+.loaderMessage, .loaderText {
+    font-size: 20px;
+    color: #0066FF;
+    font-family: initial;
+}
+
+.loaderText {
+    margin-top : 60px !important;
+}
+
+@-webkit-keyframes cuve {
+    0% {
+        -webkit-transform: rotateY(-90deg) perspective(50px);
+        transform: rotateY(-90deg) perspective(50px);
+        background: #871414;
+    }
+    50% {
+        -webkit-transform: rotateY(0deg);
+        transform: rotateY(0deg);
+        background: #6d0d0d;
+    }
+    100% {
+        -webkit-transform: rotateY(90deg) perspective(50px);
+        transform: rotateY(90deg) perspective(50px);
+        -webkit-transform-origin: 100% 50%;
+        transform-origin: 100% 50%;
+        background: #871414;
+    }
+}
+
+/* Custome CSS */
+
+.font-family-segoe-ui {
+    font-family: "Segoe UI";
+}
+
+.font-weight-bold {
+    font-weight: bold;
+}
+
+.font-size-10px {
+    font-size: 10px;
+}
+
+.font-size-11px {
+    font-size: 11px !important;
+}
+
+.font-size-12px {
+    font-size: 12px !important;
+}
+
+.font-size-13px {
+    font-size: 13px !important;
+}
+
+.bg-color-f5f5f0 {
+    background-color: #f5f5f0;
+}
+
+.fa-rotate-45{
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);
+}
