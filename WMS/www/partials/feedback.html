@@ -1,0 +1,106 @@
+<div class="modal orderStatusDetails" ng-controller="feedbackController">
+
+    <ion-header-bar class="bar bar-header bar-assertive app-color">
+        <h1 class="title font-family-segoe-ui">Feedback</h1>
+        <div class="button button-clear" ng-click="utilsService.hideModal()"><span
+                class="icon ion-ios7-close-outline"></span>
+        </div>
+    </ion-header-bar>
+
+    <ion-content style="background-color: #F5F5F0; margin-top:-30px">
+        <div>
+
+            <br/>
+
+            <div class="list list-inset"
+                 style="background-color: #F5F5F0; margin-top: 5px; margin-bottom: 5px !important;">
+                <label class="font-family-segoe-ui font-color-dark-grey"
+                       style="text-align : center; font-size: 16px;">
+                    Feedback regarding
+                    <span style="color: #db4040; font-weight: bold">*</span>
+                    :
+                </label>
+
+                <div class="row" style="padding: 0px;">
+                    <!--ng-show="((feedbackService.rateUOI >= 1) && (feedbackService.rateUOI <= 2)) || ((feedbackService.ratePerformance >= 1) && (feedbackService.ratePerformance <= 2)) || ((feedbackService.rateOR >= 1) && (feedbackService.rateOR <= 2))"-->
+                    <div class="col" style="padding: 0px;">
+                        <select class="font-family-segoe-ui" style="width: inherit; height: 40px; background-color: #FFFFFF;"
+                                ng-model="feedbackService.feedbackRegarding">
+                            <option selected style="color: gray;">--Select--</option>
+                            <option>E-COP Mobile App</option>
+                            <option>Product Delivery</option>
+                            <option>Product Quality</option>
+                            <option>Product Cost</option>
+                            <option>Product Development</option>
+                            <option>Engagement</option>
+                            <option>Other</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+
+            <br ng-show="feedbackService.feedbackRegarding != 'Other'"/>
+
+            <div class="row" ng-show="feedbackService.feedbackRegarding != 'Other'">
+                <div class="col" style="margin-top: 9px;">
+                    <label class="font-family-segoe-ui font-color-dark-grey" style="font-size: 16px">
+                        Rating
+                        <span style="color: #db4040; font-weight: bold">*</span>
+                        :
+                    </label>
+                </div>
+                <div class="col col-75 item-text-wrap font-size-80-percent"
+                     style="color: #444444;">
+                    <rating ng-model="feedbackService.rating" max="feedbackService.maxRating"
+                            style="color: #db4040"></rating>
+                </div>
+            </div>
+
+            <br/>
+
+            <div class="row">
+                <div class="col">
+                    <!--color: #444444; font-weight: bold;-->
+                    <label class="font-family-segoe-ui"
+                           style="text-align : center; font-size: 16px;">
+                        Email
+                        <span style="color: #db4040; font-weight: bold">*</span>
+                        :
+                    </label>
+                </div>
+                <div class="col col-75 item-text-wrap font-size-80-percent"
+                     style="color: #444444;">
+                    <input class="font-family-segoe-ui" type="text" ng-model="feedbackService.email"
+                           placeholder=""
+                           id="textFeedbackEmail" style="height: 30px; border:1px solid #918f8f;">
+                </div>
+            </div>
+
+            <br/>
+
+            <div class="list list-inset" style="background-color: #F5F5F0; margin-top: 5px; margin-bottom: 5px !important;">
+                <label class="font-family-segoe-ui font-color-dark-grey"
+                       style="text-align : center; font-size: 16px;">
+                    Comments / Suggestions
+                    <span style="color: #db4040; font-weight: bold" ng-show="(feedbackService.feedbackRegarding == 'Other') || ((feedbackService.feedbackRegarding != 'Other') && ((feedbackService.rating >= 1) && (feedbackService.rating <= 2)))">*</span>
+                    :
+                </label>
+                <textarea class="font-family-segoe-ui" type="text" ng-model="feedbackService.comments"
+                          placeholder=""
+                          id="textFeedbackComments" style="height: 80px; border:1px solid #918f8f;">
+                </textarea>
+            </div>
+
+            <br/>
+
+            <div class="padding row-center pull-center">
+                <button class="button button-block button-assertive font-family-segoe-ui font-size-20"
+                        ng-click="onSubmitFeedback()">
+                    <!--style="border-color: #449d44; background-color: #449d44"-->
+                    Submit
+                </button>
+            </div>
+
+        </div>
+    </ion-content>
+</div>

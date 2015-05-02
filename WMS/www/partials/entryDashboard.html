@@ -1,0 +1,56 @@
+<ion-content>
+    <div class="list" ng-controller="loginController">
+        <ion-header-bar class="bar bar-header app-color" >
+            <h1 class="title app-header-color">Worker Management System</h1>
+        </ion-header-bar>
+
+        <div class="list list-inset" style="margin-top: 44px;">
+
+            <div class="row">
+                <div class="col pull-center">
+                    <img src="images/wms_logo4.png" style="width: 200px; height: 200px" />
+                </div>
+            </div>
+
+            <div class="card login-box-shadow">
+                <div class="item item-text-wrap">    
+                    <label class="item item-input item-stacked-label" style="border-color: #000;background-color: #fbfcfb">
+                        <span class="input-label" style="width: 10px;">
+                            <i class="icon app-icon ion-person placeholder-icon loginIconSize" style="font-size: 18px !important;"></i>
+                        </span>
+                        <input class="loginTextBoxFont" ng-model="loginService.userName" type="text" placeholder="User Name"/>
+                    </label>
+
+                    <label class="item item-input item-stacked-label loginMarginTopBetUserAndPassword" style="border-color: lightgray;background-color: #fbfcfb; margin-top: 8px !important;">
+                        <span class="input-label" style="width: 10px;">
+                            <i class="icon app-icon ion-key  placeholder-icon loginIconSize" style="font-size: 18px !important;-webkit-transform: rotate(-90deg) !important;"></i>
+                        </span>
+                        <input class="loginTextBoxFont" type="password" placeholder="Password" ng-model="loginService.password" style="background-color: #fbfcfb"/>
+                    </label>
+                </div>
+            </div>
+
+        </div>
+        <label class="item item-input item-text-wrap checkbox" style="border-color: #fff; margin-top: 3px" ng-show="loginService.message !== ''">
+            {{loginService.message}}
+        </label>
+
+        <br ng-show="loginService.message !== ''" />
+
+        <label class="toggle toggle-assertive" style="margin-left: 10px;">
+            <input type="checkbox"  ng-model="loginService.rememberPassword" />
+            <div class="track" style="float:left;">
+                <div class="handle"></div>
+            </div>
+            <div style="display: inline-block;padding-top: 5px;padding-left: 10px;width: 180px;"> 
+                <span class="assertive">Remember Me </span>
+            </div>
+        </label>
+
+        <br/>
+
+        <div class="padding row-center pull-center loginMarginTopBetPasswordAndRememberMeAndLogin">
+            <button class="button button-full button-assertive loginLoginButtonFont" ng-click="login()">Login</button>
+        </div>
+    </div>
+</ion-content>
