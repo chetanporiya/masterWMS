@@ -1,0 +1,62 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {
+            "www/config.xml": {
+                "parents": {
+                    "/widget": [
+                        {
+                            "xml": "<feature name=\"com.blackberry.app\" value=\"com.blackberry.app\" />",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<feature name=\"com.blackberry.ui.toast\" value=\"com.blackberry.ui.toast\" />",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<feature name=\"Device\" value=\"Device\" />",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<feature name=\"NetworkStatus\" value=\"NetworkStatus\" />",
+                            "count": 1
+                        }
+                    ],
+                    "/widget/rim:permissions": [
+                        {
+                            "xml": "<rim:permit>read_device_identifying_information</rim:permit>",
+                            "count": 1
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "installed_plugins": {
+        "com.blackberry.app": {
+            "PACKAGE_NAME": "com.essar.applicationName"
+        },
+        "com.blackberry.ui.toast": {
+            "PACKAGE_NAME": "com.essar.applicationName"
+        },
+        "com.yezhiming.cordova.appinfo": {
+            "PACKAGE_NAME": "com.essar.applicationName"
+        },
+        "nl.x-services.plugins.toast": {
+            "PACKAGE_NAME": "com.essar.applicationName"
+        },
+        "org.apache.cordova.device": {
+            "PACKAGE_NAME": "com.essar.applicationName"
+        },
+        "org.apache.cordova.inappbrowser": {
+            "PACKAGE_NAME": "com.essar.applicationName"
+        },
+        "org.apache.cordova.network-information": {
+            "PACKAGE_NAME": "com.essar.applicationName"
+        }
+    },
+    "dependent_plugins": {}
+}

@@ -1,0 +1,18 @@
+{
+    "version": "2.0.2",
+    "name": "com.yezhiming.cordova.appinfo",
+    "cordova_name": "AppInfo Plugin",
+    "description": "\n    Provide the ability to assess to Application informations.\n    accessible through navigator.appinfo.getAppInfo().\n    currently 'identifier', 'version', 'build' is provided as one JSON result by callback.\n  ",
+    "license": "MIT",
+    "platforms": [
+        "android",
+        "ios",
+        "wp8"
+    ],
+    "engines": [
+        {
+            "name": "cordova",
+            "version": ">=2.0.0"
+        }
+    ]
+}

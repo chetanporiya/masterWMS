@@ -1,0 +1,70 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {
+            "res/xml/config.xml": {
+                "parents": {
+                    "/*": [
+                        {
+                            "xml": "<feature name=\"AppInfo\"><param name=\"android-package\" value=\"com.yezhiming.cordova.appinfo.AppInfo\" /></feature>",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<feature name=\"Toast\"><param name=\"android-package\" value=\"nl.xservices.plugins.Toast\" /></feature>",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<feature name=\"Device\"><param name=\"android-package\" value=\"org.apache.cordova.device.Device\" /></feature>",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<feature name=\"InAppBrowser\"><param name=\"android-package\" value=\"org.apache.cordova.inappbrowser.InAppBrowser\" /></feature>",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<feature name=\"NetworkStatus\"><param name=\"android-package\" value=\"org.apache.cordova.networkinformation.NetworkManager\" /></feature>",
+                            "count": 1
+                        }
+                    ]
+                }
+            },
+            "AndroidManifest.xml": {
+                "parents": {
+                    "/*": [
+                        {
+                            "xml": "<uses-permission android:name=\"android.permission.ACCESS_NETWORK_STATE\" />",
+                            "count": 1
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "installed_plugins": {
+        "com.blackberry.app": {
+            "PACKAGE_NAME": "com.essar.applicationName"
+        },
+        "com.blackberry.ui.toast": {
+            "PACKAGE_NAME": "com.essar.applicationName"
+        },
+        "com.yezhiming.cordova.appinfo": {
+            "PACKAGE_NAME": "com.essar.applicationName"
+        },
+        "nl.x-services.plugins.toast": {
+            "PACKAGE_NAME": "com.essar.applicationName"
+        },
+        "org.apache.cordova.device": {
+            "PACKAGE_NAME": "com.essar.applicationName"
+        },
+        "org.apache.cordova.inappbrowser": {
+            "PACKAGE_NAME": "com.essar.applicationName"
+        },
+        "org.apache.cordova.network-information": {
+            "PACKAGE_NAME": "com.essar.applicationName"
+        }
+    },
+    "dependent_plugins": {}
+}
