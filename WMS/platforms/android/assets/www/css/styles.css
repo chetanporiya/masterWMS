@@ -26,14 +26,14 @@ and open the template in the editor.
 }
 
 .button.button-positive {
-    border-color: #0066FF !important;
-    background-color: #0066FF !important;
+    border-color:#0066A4 !important;
+    background-color:#0066A4 !important;
 }
 
 
 
 .action-sheet .button {
-    color : #0066FF;
+    color :#0066A4;
 }
 
 .action-sheet-title {
@@ -64,8 +64,8 @@ and open the template in the editor.
 
 .tabs-positive > .tabs, .tabs.tabs-positive {
     border-color: #941D1D !important;
-    background-color: #0066FF !important;
-    background-image: linear-gradient(0deg, #0066FF, #0066FF 50%, transparent 50%) !important;
+    background-color:#0066A4 !important;
+    background-image: linear-gradient(0deg,#0066A4,#0066A4 50%, transparent 50%) !important;
     color: #fff !important;
 }
 
@@ -125,25 +125,25 @@ ion-nav-view {
 }
 
 .app-color {
-    box-shadow: 0px 0px 5px #0066FF !important;
-    background-color: #0066FF !important;
-    color: #fff  !important;
+    /* box-shadow: 0px 0px 5px#0066A4 !important; */
+    background-color:#0066A4 !important;
+    color: #FA2929  !important;
 }
 
 .app-border {
-    border-color: #0066FF !important;
+    border-color:#0066A4 !important;
 }
 
 .checkbox-assertive input:before, .checkbox-assertive .checkbox-icon:before {
-    border-color: #0066FF !important; 
+    border-color:#0066A4 !important; 
 }
 
 .checkbox-assertive input:checked:before, .checkbox-assertive input:checked + .checkbox-icon:before {
-    background: #0066FF !important; 
+    background:#0066A4 !important; 
 }
 
 .input-label {
-    color : #0066FF;
+    color :#0066A4;
 }
 
 .has-header {
@@ -151,11 +151,11 @@ ion-nav-view {
 }
 
 .item-checkbox {
-    color : #0066FF;
+    color :#0066A4;
 }
 
 .button.button-assertive {
-    background-color : #0066FF ;
+    background-color :#0066A4 ;
 }
 
 .button {
@@ -193,7 +193,7 @@ ion-nav-view {
     border : none !important;
 }
 .item .item-input > input:focus{
-    box-shadow: 0px 0px 5px #0066FF;
+    box-shadow: 0px 0px 5px#0066A4;
 }
 
 .font-size-30 {
@@ -201,7 +201,7 @@ ion-nav-view {
 }
 
 .app-icon {
-    color : #0066FF;
+    color :#0066A4;
 }
 
 .CustomModal {
@@ -301,7 +301,7 @@ ion-nav-view {
 
 .loaderMessage, .loaderText {
     font-size: 20px;
-    color: #0066FF;
+    color:#0066A4;
     font-family: initial;
 }
 
@@ -365,4 +365,14 @@ ion-nav-view {
   -ms-transform: rotate(90deg);
   -o-transform: rotate(90deg);
   transform: rotate(90deg);
+}
+.app-header-color{
+    color:#fff;
+}
+.login-box-shadow{
+    box-shadow:1px 1px 18px #888888;
+}
+.app-logo-style{
+    width: 130px; 
+    height: 130px;
 }

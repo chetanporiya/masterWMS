@@ -58,7 +58,7 @@ mobilityApp.controller('loginController', function($scope, $location, utilsServi
                 } else if (strUsername[0].toLowerCase() === "qa") {
                     localStorage.setItem("envType", urlConstant.qa);
                 } else if (strUsername[0].toLowerCase() === "local") {
-//                    localStorage.setItem("envType", "http://172.24.105.203:6080/");
+                    //localStorage.setItem("envType", "http://172.24.105.203:6080/");
                     localStorage.setItem("envType", "http://172.24.105.176:8080/");
                 }
                 $scope.loginService.internalUserName = strUsername[1];
@@ -84,20 +84,26 @@ mobilityApp.controller('loginController', function($scope, $location, utilsServi
             } else {
                 localStorage.setItem("RememberPassword", "no");
             }
-            $scope.utilsService.makeAjaxCall(
-                    $scope.utilsService.getEnvironmentType() + "" + urlConstant.loginUrl,
-                    data,
-                    function(response) {
-                        alert(JSON.stringify(response));
-                        $location.path('Welcome');
-                    },
-                    true,
-                    true);
+
+            //TO-DO Un-comment below ajax call as per requirement.
+
+            /*$scope.utilsService.makeAjaxCall(
+             $scope.utilsService.getEnvironmentType() + "" + urlConstant.loginUrl,
+             data,
+             function(response) {
+             alert(JSON.stringify(response));
+             $location.path('Welcome');
+             },
+             true,
+             true);*/
         } else {
             $scope.utilsService.showOkPopup("Login Error", "Please enter your username and password in order to continue.");
         }
     };
 
+    /**
+     * Remember password logic.
+     */
     if (localStorage.getItem("userName") !== null) {
         $scope.isRememberPassword = localStorage.getItem("rememberPassword");
         if ($scope.isRememberPassword === "true") {

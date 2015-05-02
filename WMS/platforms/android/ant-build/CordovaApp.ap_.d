@@ -1,130 +1,136 @@
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\ant-build\CordovaApp.ap_ \
- : D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\res\drawable\icon.png \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\res\drawable-hdpi\ic_action_next_item.png \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\res\drawable-hdpi\ic_action_previous_item.png \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\res\drawable-hdpi\ic_action_remove.png \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\res\drawable-land-hdpi\screen.png \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\res\drawable-land-ldpi\screen.png \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\res\drawable-land-mdpi\screen.png \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\res\drawable-land-xhdpi\screen.png \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\res\drawable-mdpi\ic_action_next_item.png \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\res\drawable-mdpi\ic_action_previous_item.png \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\res\drawable-mdpi\ic_action_remove.png \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\res\drawable-port-hdpi\screen.png \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\res\drawable-port-ldpi\screen.png \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\res\drawable-port-mdpi\screen.png \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\res\drawable-port-xhdpi\screen.png \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\res\drawable-xhdpi\ic_action_next_item.png \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\res\drawable-xhdpi\ic_action_previous_item.png \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\res\drawable-xhdpi\ic_action_remove.png \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\res\drawable-xxhdpi\ic_action_next_item.png \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\res\drawable-xxhdpi\ic_action_previous_item.png \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\res\drawable-xxhdpi\ic_action_remove.png \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\res\values\strings.xml \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\res\xml\config.xml \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\ant-build\res\drawable\icon.png \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\ant-build\res\drawable-hdpi\ic_action_next_item.png \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\ant-build\res\drawable-hdpi\ic_action_previous_item.png \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\ant-build\res\drawable-hdpi\ic_action_remove.png \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\ant-build\res\drawable-land-hdpi\screen.png \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\ant-build\res\drawable-land-ldpi\screen.png \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\ant-build\res\drawable-land-mdpi\screen.png \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\ant-build\res\drawable-land-xhdpi\screen.png \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\ant-build\res\drawable-mdpi\ic_action_next_item.png \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\ant-build\res\drawable-mdpi\ic_action_previous_item.png \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\ant-build\res\drawable-mdpi\ic_action_remove.png \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\ant-build\res\drawable-port-hdpi\screen.png \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\ant-build\res\drawable-port-ldpi\screen.png \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\ant-build\res\drawable-port-mdpi\screen.png \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\ant-build\res\drawable-port-xhdpi\screen.png \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\ant-build\res\drawable-xhdpi\ic_action_next_item.png \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\ant-build\res\drawable-xhdpi\ic_action_previous_item.png \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\ant-build\res\drawable-xhdpi\ic_action_remove.png \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\ant-build\res\drawable-xxhdpi\ic_action_next_item.png \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\ant-build\res\drawable-xxhdpi\ic_action_previous_item.png \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\ant-build\res\drawable-xxhdpi\ic_action_remove.png \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\_where-is-www.txt \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\cordova.js \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\cordova_plugins.js \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\css \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\images \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\img \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\index.html \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\ionic \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\js \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\partials \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\plugins \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\css\index.css \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\css\styles.css \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\images\essar_logo.png \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\images\essar_logo_1.png \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\images\icon.png \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\img\logo.png \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\ionic\css \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\ionic\fonts \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\ionic\js \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\ionic\css\ionic-rating.css \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\ionic\css\ionic.css \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\ionic\fonts\ionicons.eot \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\ionic\fonts\ionicons.svg \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\ionic\fonts\ionicons.ttf \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\ionic\fonts\ionicons.woff \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\ionic\js\ionic-rating.js \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\ionic\js\ionic.bundle.min.js \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\js\angular \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\js\jquery \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\js\angular\app \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\js\angular\constants \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\js\angular\controller \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\js\angular\directives \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\js\angular\routes \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\js\angular\services \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\js\angular\app\mobilityApp.js \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\js\angular\constants\messagesConstant.js \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\js\angular\constants\urlConstant.js \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\js\angular\controller\indexController.js \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\js\angular\controller\loginController.js \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\js\angular\routes\routes.js \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\js\angular\services\checkNetworkService.js \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\js\angular\services\loginService.js \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\js\angular\services\sessionService.js \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\js\angular\services\utilsService.js \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\partials\feedback.html \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\partials\info.html \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\partials\loaderMessage.html \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\partials\login.html \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\partials\sendLog.html \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\partials\welcome.html \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\plugins\com.yezhiming.cordova.appinfo \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\plugins\font-awesome-4.3.0 \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\plugins\jquery \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\plugins\nl.x-services.plugins.toast \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\plugins\org.apache.cordova.device \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\plugins\org.apache.cordova.inappbrowser \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\plugins\org.apache.cordova.network-information \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\plugins\com.yezhiming.cordova.appinfo\www \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\plugins\com.yezhiming.cordova.appinfo\www\appinfo.js \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\plugins\font-awesome-4.3.0\css \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\plugins\font-awesome-4.3.0\fonts \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\plugins\font-awesome-4.3.0\css\font-awesome.css \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\plugins\font-awesome-4.3.0\css\font-awesome.min.css \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\plugins\font-awesome-4.3.0\fonts\fontawesome-webfont.eot \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\plugins\font-awesome-4.3.0\fonts\fontawesome-webfont.svg \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\plugins\font-awesome-4.3.0\fonts\fontawesome-webfont.ttf \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\plugins\font-awesome-4.3.0\fonts\fontawesome-webfont.woff \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\plugins\font-awesome-4.3.0\fonts\fontawesome-webfont.woff2 \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\plugins\font-awesome-4.3.0\fonts\FontAwesome.otf \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\plugins\jquery\jquery.min.js \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\plugins\nl.x-services.plugins.toast\test \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\plugins\nl.x-services.plugins.toast\www \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\plugins\nl.x-services.plugins.toast\test\tests.js \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\plugins\nl.x-services.plugins.toast\www\Toast.js \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\plugins\org.apache.cordova.device\www \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\plugins\org.apache.cordova.device\www\device.js \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\plugins\org.apache.cordova.inappbrowser\www \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\plugins\org.apache.cordova.inappbrowser\www\inappbrowser.js \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\plugins\org.apache.cordova.network-information\www \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\plugins\org.apache.cordova.network-information\www\Connection.js \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\assets\www\plugins\org.apache.cordova.network-information\www\network.js \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\ant-build\AndroidManifest.xml \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\ant-build\CordovaApp.ap_ \
+ : D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\res\drawable\icon.png \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\res\drawable-hdpi\ic_action_next_item.png \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\res\drawable-hdpi\ic_action_previous_item.png \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\res\drawable-hdpi\ic_action_remove.png \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\res\drawable-land-hdpi\screen.png \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\res\drawable-land-ldpi\screen.png \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\res\drawable-land-mdpi\screen.png \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\res\drawable-land-xhdpi\screen.png \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\res\drawable-mdpi\ic_action_next_item.png \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\res\drawable-mdpi\ic_action_previous_item.png \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\res\drawable-mdpi\ic_action_remove.png \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\res\drawable-port-hdpi\screen.png \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\res\drawable-port-ldpi\screen.png \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\res\drawable-port-mdpi\screen.png \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\res\drawable-port-xhdpi\screen.png \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\res\drawable-xhdpi\ic_action_next_item.png \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\res\drawable-xhdpi\ic_action_previous_item.png \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\res\drawable-xhdpi\ic_action_remove.png \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\res\drawable-xxhdpi\ic_action_next_item.png \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\res\drawable-xxhdpi\ic_action_previous_item.png \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\res\drawable-xxhdpi\ic_action_remove.png \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\res\values\strings.xml \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\res\xml\config.xml \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\ant-build\res\drawable\icon.png \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\ant-build\res\drawable-hdpi\ic_action_next_item.png \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\ant-build\res\drawable-hdpi\ic_action_previous_item.png \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\ant-build\res\drawable-hdpi\ic_action_remove.png \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\ant-build\res\drawable-land-hdpi\screen.png \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\ant-build\res\drawable-land-ldpi\screen.png \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\ant-build\res\drawable-land-mdpi\screen.png \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\ant-build\res\drawable-land-xhdpi\screen.png \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\ant-build\res\drawable-mdpi\ic_action_next_item.png \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\ant-build\res\drawable-mdpi\ic_action_previous_item.png \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\ant-build\res\drawable-mdpi\ic_action_remove.png \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\ant-build\res\drawable-port-hdpi\screen.png \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\ant-build\res\drawable-port-ldpi\screen.png \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\ant-build\res\drawable-port-mdpi\screen.png \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\ant-build\res\drawable-port-xhdpi\screen.png \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\ant-build\res\drawable-xhdpi\ic_action_next_item.png \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\ant-build\res\drawable-xhdpi\ic_action_previous_item.png \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\ant-build\res\drawable-xhdpi\ic_action_remove.png \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\ant-build\res\drawable-xxhdpi\ic_action_next_item.png \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\ant-build\res\drawable-xxhdpi\ic_action_previous_item.png \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\ant-build\res\drawable-xxhdpi\ic_action_remove.png \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\_where-is-www.txt \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\cordova.js \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\cordova_plugins.js \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\css \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\images \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\img \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\index.html \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\ionic \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\js \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\partials \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\plugins \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\css\index.css \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\css\styles.css \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\images\essar_logo.png \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\images\essar_logo_1.png \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\images\icon.png \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\images\wms_logo.jpg \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\images\wms_logo1.jpg \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\images\wms_logo2.png \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\images\wms_logo3.gif \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\images\wms_logo4.png \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\img\logo.png \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\ionic\css \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\ionic\fonts \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\ionic\js \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\ionic\css\ionic-rating.css \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\ionic\css\ionic.css \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\ionic\fonts\ionicons.eot \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\ionic\fonts\ionicons.svg \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\ionic\fonts\ionicons.ttf \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\ionic\fonts\ionicons.woff \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\ionic\js\ionic-rating.js \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\ionic\js\ionic.bundle.min.js \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\js\angular \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\js\jquery \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\js\angular\app \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\js\angular\constants \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\js\angular\controller \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\js\angular\directives \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\js\angular\routes \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\js\angular\services \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\js\angular\app\mobilityApp.js \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\js\angular\constants\messagesConstant.js \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\js\angular\constants\urlConstant.js \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\js\angular\controller\indexController.js \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\js\angular\controller\loginController.js \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\js\angular\routes\routes.js \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\js\angular\services\checkNetworkService.js \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\js\angular\services\loginService.js \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\js\angular\services\sessionService.js \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\js\angular\services\utilsService.js \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\partials\entryDashboard.html \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\partials\feedback.html \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\partials\info.html \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\partials\loaderMessage.html \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\partials\login.html \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\partials\sendLog.html \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\partials\welcome.html \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\plugins\com.yezhiming.cordova.appinfo \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\plugins\font-awesome-4.3.0 \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\plugins\jquery \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\plugins\nl.x-services.plugins.toast \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\plugins\org.apache.cordova.device \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\plugins\org.apache.cordova.inappbrowser \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\plugins\org.apache.cordova.network-information \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\plugins\com.yezhiming.cordova.appinfo\www \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\plugins\com.yezhiming.cordova.appinfo\www\appinfo.js \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\plugins\font-awesome-4.3.0\css \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\plugins\font-awesome-4.3.0\fonts \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\plugins\font-awesome-4.3.0\css\font-awesome.css \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\plugins\font-awesome-4.3.0\css\font-awesome.min.css \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\plugins\font-awesome-4.3.0\fonts\fontawesome-webfont.eot \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\plugins\font-awesome-4.3.0\fonts\fontawesome-webfont.svg \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\plugins\font-awesome-4.3.0\fonts\fontawesome-webfont.ttf \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\plugins\font-awesome-4.3.0\fonts\fontawesome-webfont.woff \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\plugins\font-awesome-4.3.0\fonts\fontawesome-webfont.woff2 \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\plugins\font-awesome-4.3.0\fonts\FontAwesome.otf \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\plugins\jquery\jquery.min.js \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\plugins\nl.x-services.plugins.toast\test \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\plugins\nl.x-services.plugins.toast\www \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\plugins\nl.x-services.plugins.toast\test\tests.js \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\plugins\nl.x-services.plugins.toast\www\Toast.js \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\plugins\org.apache.cordova.device\www \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\plugins\org.apache.cordova.device\www\device.js \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\plugins\org.apache.cordova.inappbrowser\www \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\plugins\org.apache.cordova.inappbrowser\www\inappbrowser.js \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\plugins\org.apache.cordova.network-information\www \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\plugins\org.apache.cordova.network-information\www\Connection.js \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\assets\www\plugins\org.apache.cordova.network-information\www\network.js \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\ant-build\AndroidManifest.xml \

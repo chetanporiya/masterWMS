@@ -1,29 +1,36 @@
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\ant-build\classes.dex : \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\ant-build\classes\com\essar\applicationName\BuildConfig.class \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\ant-build\classes\com\essar\applicationName\CordovaApp.class \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\ant-build\classes\com\essar\applicationName\R$attr.class \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\ant-build\classes\com\essar\applicationName\R$drawable.class \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\ant-build\classes\com\essar\applicationName\R$string.class \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\ant-build\classes\com\essar\applicationName\R$xml.class \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\ant-build\classes\com\essar\applicationName\R.class \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\ant-build\classes\com\yezhiming\cordova\appinfo\AppInfo.class \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\ant-build\classes\nl\xservices\plugins\Toast$1.class \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\ant-build\classes\nl\xservices\plugins\Toast.class \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\ant-build\classes\org\apache\cordova\device\Device.class \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$1.class \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$2.class \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$3.class \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$4$1.class \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$4.class \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$5$1.class \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$5$2.class \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$5$3.class \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$5$4.class \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$5.class \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$InAppBrowserClient.class \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser.class \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowserDialog.class \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppChromeClient.class \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\ant-build\classes\org\apache\cordova\networkinformation\NetworkManager$1.class \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\ant-build\classes\org\apache\cordova\networkinformation\NetworkManager.class \
-D:\Mobility_Final_Client\CLIENT-COMMONS\CLIENT-COMMONS\platforms\android\ant-build\dexedLibs\classes-d6ff35af86c95747931aa2bf22147b6f.jar \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\ant-build\classes.dex : \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\ant-build\classes\com\essar\applicationName\BuildConfig.class \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\ant-build\classes\com\essar\applicationName\CordovaApp.class \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\ant-build\classes\com\essar\applicationName\R$attr.class \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\ant-build\classes\com\essar\applicationName\R$drawable.class \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\ant-build\classes\com\essar\applicationName\R$string.class \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\ant-build\classes\com\essar\applicationName\R$xml.class \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\ant-build\classes\com\essar\applicationName\R.class \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\ant-build\classes\com\essar\balajiwms\BuildConfig.class \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\ant-build\classes\com\essar\balajiwms\CordovaApp.class \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\ant-build\classes\com\essar\balajiwms\R$attr.class \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\ant-build\classes\com\essar\balajiwms\R$drawable.class \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\ant-build\classes\com\essar\balajiwms\R$string.class \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\ant-build\classes\com\essar\balajiwms\R$xml.class \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\ant-build\classes\com\essar\balajiwms\R.class \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\ant-build\classes\com\yezhiming\cordova\appinfo\AppInfo.class \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\ant-build\classes\nl\xservices\plugins\Toast$1.class \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\ant-build\classes\nl\xservices\plugins\Toast.class \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\ant-build\classes\org\apache\cordova\device\Device.class \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$1.class \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$2.class \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$3.class \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$4$1.class \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$4.class \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$5$1.class \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$5$2.class \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$5$3.class \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$5$4.class \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$5.class \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$InAppBrowserClient.class \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser.class \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowserDialog.class \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppChromeClient.class \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\ant-build\classes\org\apache\cordova\networkinformation\NetworkManager$1.class \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\ant-build\classes\org\apache\cordova\networkinformation\NetworkManager.class \
+D:\Important Files\Personal Important\projects\masterWMS\WMS\platforms\android\ant-build\dexedLibs\classes-241e0f2d5466f23b9b43218e62d7e8c3.jar \
